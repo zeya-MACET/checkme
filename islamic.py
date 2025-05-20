@@ -6,7 +6,7 @@ def app():
         
     from PIL import Image
     img = Image.open('Islamic.png')
-    st.image(img,caption='Islamic Holy Places')
+    st.image(img,caption='Islamic Holy Places')   
 
     
     st.markdown("<h1 style='text-align: center; color: green;'>Five Pillars of Islam</h1>", unsafe_allow_html=True)
@@ -107,6 +107,19 @@ def app():
     st.write("[Purane zamany mein Hajj kaise hota tha? Purana Hajj 1924-1928 Purani Yaden  old Memories Makka ](https://www.youtube.com/watch?v=le-oRUvARJo)")
     st.write("[Old Hajj in 1950s Purana Hajj 1950 Makka](https://www.youtube.com/watch?v=ZdQW9x9DdHU)")
     st.write("[Old MAKKAH from 1700 to 2030 | mecca (makkah) future plan | Haram shareef expansion history](https://www.youtube.com/watch?v=_dI4TtXEgTs)")
+
+    st.markdown("<h1 style='text-align: center; color: green;'>Holy Quran قرآن پاک</h1>", unsafe_allow_html=True)
+    st.image("Quran.png", caption="(كتاب فضائل القرآن)") 
+    st.write("[Top 10 Hadiths about Reading the Quran - Mairaj Ul Quran](https://mairajulquran.com/top-10-hadiths-about-reading-the-quran/)")
+    st.write("[40 Hadith on the Qur'an - quranproject](https://www.quranproject.org/40-Hadith-on-the-Quran--575-d)")
+    st.write("[The Noble Quran - Quran.com](https://quran.com/)")
+    st.write("[Tanzil - Quran Navigator | القرآن الكريم](https://tanzil.net/#1:1)")
+    st.write("[Online Quran Reading & Recitation Arabic with Translation in Urdu](https://hamariweb.com/islam/online-quran/)")
+    st.write("[Complete Quran with Urdu Translation - Deen.pk](https://deen.pk/en/quran-urdu/)")
+    st.write("[Abdur-Rahman as-Sudais | Audio | Quran ](https://qurancentral.com/audio/abdur-rahman-as-sudais/)")
+    st.write("[Abdul-Basit-Abd-Us-Samad](https://qurancentral.com/audio/abdul-basit-abd-us-samad)")
+    st.write("[Online E-Holy Quran ](https://app.quranflash.com/?en)")
+    
 
              
     st.markdown("<h5 style='text-align: center; color: green;'>Complete information of the Holy Place Makkah</h5>", unsafe_allow_html=True)
@@ -268,7 +281,7 @@ def app():
     st.write("[Allah 99 Names (Asma e Husna) Tarjuma in Urdu](https://archive.org/details/allah-99-names-asma-e-husna-tarjuma)")
     st.write("[99 NAMES OF ALLAH IN URDU TRANSLATION!Video ](https://www.bing.com/videos/riverview/relatedvideo?q=allah+99+names+with+urdu+translation&mid=FC47F986C43820F147D4FC47F986C43820F147D4&mcid=7F7A9A173EDF40D6B6825AC0622A30A3&FORM=VIRE)")
    
-    st.markdown("<h5 style='text-align: center; color: green;'>importance Hadith in Islam اسلام میں حدیث کی اہمیت</h5>", unsafe_allow_html=True)
+    st.markdown("<h5 style='text-align: center; color: green;'>importance of Hadith in Islam اسلام میں حدیث کی اہمیت</h5>", unsafe_allow_html=True)
     st.image("Hadesh.jpg", caption="(اللہ کے 99 نام (الاسماء الحسنہ) )") 
     st.write("[List of hadith books](https://en.wikipedia.org/wiki/List_of_hadith_books#:~:text=The%20Nine%20Hadith%20books%20that%20are%20indexed%20in,Muwatta%20Imam%20Malik%2C%20Sunan%20al-Darimi%2C%20and%20Musnad%20Ahmad.)")
     st.write("[Sahih al Bukhari (English)](https://www.islamicfinder.org/hadith/bukhari/)")
