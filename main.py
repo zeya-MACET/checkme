@@ -3,7 +3,7 @@ from streamlit_option_menu import option_menu
 import about, watch, home, islamic, family
 
 st.set_page_config(
-    page_title="Sparking",
+    page_title="Zeya on Net",
     
     #Title
     #st.title("welcome to My HOME Page Website in Python")
