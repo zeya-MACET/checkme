@@ -59,6 +59,16 @@ def app():
     st.markdown("<h5 style='text-align: center; color: green;'>Details of Rakats Are In Each Prayer with their Names</h5>", unsafe_allow_html=True)
     st.image("maxresdefault.jpg", caption="(الصلاة)")
     st.markdown("<h5 style='text-align: center; color: green;'>Details of Azan and its meaning</h5>", unsafe_allow_html=True)
+
+    st.markdown("<h5 style='text-align: center; color: green;'>Azan with Urdu Taranslation</h5>", unsafe_allow_html=True)
+    st.image("Azan-with Urdu Tarzuma.png", caption="(اذان اردو ترجمہ کے ساتھ)")
+
+    st.markdown("<h5 style='text-align: center; color: green;'>Azan with English Taranslation</h5>", unsafe_allow_html=True)
+    st.image("Azan-with English Tarzuma.png", caption="(انگریزی ترجمے کے ساتھ اذان)")
+
+    st.markdown("<h5 style='text-align: center; color: green;'>Azan with Hindi Taranslation</h5>", unsafe_allow_html=True)
+    st.image("Azan-with Hindi Tarzuma.png", caption="(ہندی ترجمہ کے ساتھ اذان)")
+
     st.write("[Azan With Urdu Translation Full Azan Meaning in Urdu](https://www.youtube.com/watch?v=0Nx7qY9rikI)")
     st.write("[पूरी अजान तर्जुमा के साथ  Azan with hindi translation Azan ka tarjuma hindi Me ](https://www.youtube.com/watch?v=0Nx7qY9rikI)")
     st.write("[Namaz Tarjuma ke sath  Namaz Ka Tarika  Namaz With Urdu Translation  نماز کا طریقہ نماز ترجمہ ](https://www.youtube.com/watch?v=DgJ36yBDgQA)")
