@@ -69,6 +69,12 @@ def app():
     st.markdown("<h5 style='text-align: center; color: green;'>Azan with Hindi Taranslation</h5>", unsafe_allow_html=True)
     st.image("Azan-with Hindi Tarzuma.png", caption="(ہندی ترجمہ کے ساتھ اذان)")
 
+
+    st.markdown("<h5 style='text-align: center; color: Blue;'>Duaa after Hearing Azan</h5>", unsafe_allow_html=True)
+    st.image("Dua-After-Adhan in Hindi-Urdu and English Translation.jpg", caption="( اذان سننے کے بعد کی دعا )")
+
+
+
     st.write("[Azan With Urdu Translation Full Azan Meaning in Urdu](https://www.youtube.com/watch?v=0Nx7qY9rikI)")
     st.write("[पूरी अजान तर्जुमा के साथ  Azan with hindi translation Azan ka tarjuma hindi Me ](https://www.youtube.com/watch?v=0Nx7qY9rikI)")
     st.write("[Namaz Tarjuma ke sath  Namaz Ka Tarika  Namaz With Urdu Translation  نماز کا طریقہ نماز ترجمہ ](https://www.youtube.com/watch?v=DgJ36yBDgQA)")
